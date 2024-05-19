@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/FerasAlShateeb/FerasAlShateeb/assets/130275283/5668839c-d768-47f6-8f05-db20f132cd6a)
 <h1 align="center"> 👋 Hi, I’m Feras Al-Shateeb </h1>
-<h3 align="center">I'm a fresh Software Engeneering graduate from KFUPM, Saudi Arabia. I have experience with full-stack development, and I would like to acquire more knowledge of any new skills or technologies new to me.</h3>
+<h3 align="center">I'm a fresh Software Engineering graduate from KFUPM, Saudi Arabia. I have experience with full-stack development, and I would like to acquire more knowledge of any new skills or technologies new to me.</h3>
 
 - 💻 I'm currently working on [WikiProduct]()
 - 🌱 I’m currently learning **React**
