@@ -2,11 +2,11 @@
 <h1 align="center"> 👋 Hi, I’m Feras Al-Shateeb </h1>
 <h3 align="center">I'm a fresh Software Engineering graduate from KFUPM, Saudi Arabia. I have experience with full-stack development, and I would like to acquire more knowledge of any new skills or technologies new to me.</h3>
 
-- 💻 I'm currently working on [WikiProduct]()
 - 🌱 I’m currently learning **React**
 - 🤝 I’m looking to collaborate on **Full-Stack** or **Inspiring Projects**
 - 📫 How to reach me [ferasalshateeb@gmail.com](ferasalshateeb@gmail.com)
-- 📃 Know more about me on [LinkedIn](linkedin.com/in/feras-al-shateeb)
+- 📃 Know more about me on [LinkedIn](https://linkedin.com/in/feras-al-shateeb)
+- 💻 Latest Project [WikiProduct](https://wikiproduct.up.railway.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferasalshateeb&label=Profile%20views&color=0e75b6&style=flat" alt="ferasalshateeb" /> </p>
 
@@ -28,6 +28,21 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/175190af-17bd-4d09-ae2f-7db694f22e98" alt="Shadcn UI" width="40" height="40"/>
+  </a>
+  <a href="https://magicui.design/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/a0eec358-9311-4500-af43-0fa55c5e4dc5" alt="Magic UI" width="40" height="40"/>
+  </a>
+  <a href="https://ui.aceternity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/67a56ebe-341f-41db-98ca-ae8f4c1da996" alt="Aceternity UI" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
